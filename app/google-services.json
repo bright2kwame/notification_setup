@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "160309864526",
+    "project_id": "push-notification-test-c785f",
+    "storage_bucket": "push-notification-test-c785f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160309864526:android:97c186965db54b52733b1f",
+        "android_client_info": {
+          "package_name": "bright.mobile.pushnotificationtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160309864526-q479apiremq3m7lr8sjlkr8igil85dtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7Jw5DmxS2crCoUDX3Gt5fnwppaT5Ykdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160309864526-q479apiremq3m7lr8sjlkr8igil85dtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
